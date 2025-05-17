@@ -1,3 +1,4 @@
+Hetvi Gandhi
 1) **1. Within a Github action that runs whenever code is pushed.** Because running automated tests as part of a GitHub Action ensures that every change pushed to the repo is verified for correctness. This helps catch bugs early and prevents breaking changes from being merged into the main branch. It also provides immediate feedback to the person pushing the code without requiring them to remember to manually run tests which improves development efficiency and reliability.
 2) no
 3) Navigation mode audits the page as it loads from the start. It measures metrics like performance, accessibility etc based on the full loading process. It provides a full view of how the page performs during a load. Snapshot mode captures and audits the current state of the page without reloading it like the navigation mode. It is mainly useful for identifying static issues such as accessibility problems.
